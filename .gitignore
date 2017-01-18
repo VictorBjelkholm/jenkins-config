@@ -1,0 +1,8 @@
+!/jobs/ipfs/jobs
+!/jobs/ipfs/jobs/*
+!/jobs/ipfs/jobs/*/*.xml
+/jobs/ipfs/computation
+/jobs/ipfs/jobs/*/disk-usage.xml
+/jobs/ipfs/jobs/*/builds
+/jobs/ipfs/jobs/*/branches
+/jobs/ipfs/jobs/*/indexing
